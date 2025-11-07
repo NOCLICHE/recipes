@@ -4,3 +4,4 @@
 - potato 2p
 # Instructions
 - shell the peas
+- put peas into a pan
